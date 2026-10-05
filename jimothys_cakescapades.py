@@ -8,7 +8,7 @@
 # an object describing our player
 player = {
         "name" : "Jimothy",
-        "location" : "familyden",
+        "location" : "Family Den",
         "spine" : "short",
         "items" : ["coin"],
         "friends" : [],
