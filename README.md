@@ -50,9 +50,7 @@ Can you find the ending with the highest score?
 
 ## Story map
 
-The game started as a sketch: characters, places, and items on one page, and the branching story on the other.
-
-![Hand-drawn sketch of the game's characters, places, items, and branching story](images/story-sketch.jpg)
+Every path through the cake heist, from the first choice to all 7 endings. Best saved until after you've played.
 
 <details>
 <summary><strong>Full story map (spoilers!)</strong></summary>
