@@ -426,15 +426,15 @@ def stormDrain ():
                         print ("")
     
             # option 3: error
-                else:
-                    print ("")
-                    print ("Jimothy doesn't know how to do that. Try again.")
-                    print ("")
+            else:
+                print ("")
+                print ("Jimothy doesn't know how to do that. Try again.")
+                print ("")
 
 
 def gameOver():
 
-    printGraphic("Jimothy")
+    printGraphic("jimothy")
 
     print("-------------------------------")
     print("Game Over")
